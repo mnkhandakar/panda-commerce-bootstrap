@@ -1,3 +1,7 @@
 .bg-custom-color{
     background-color:#fdeae8;
 }
+
+.categories img{
+    width: 100px;
+}
